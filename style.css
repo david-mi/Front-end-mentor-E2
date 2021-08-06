@@ -30,13 +30,13 @@ body{
 
 /* /// GLOBAL /// */
 
-h1 {
+h2 {
     text-transform: uppercase;
     font-size: 2.5rem;
     font-family: 'Big Shoulders Display', cursive;
 }
 
-h2 {
+h3 {
     font-size: 14px;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: initial;
